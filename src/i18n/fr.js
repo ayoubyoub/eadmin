@@ -22,10 +22,10 @@ export default {
                     'par %{customer_name}, un poster |||| par %{customer_name}, %{nb_items} posters',
             },
             welcome: {
-                title: 'Bienvenue sur la démo de eAdmin',
+                title: 'Bienvenue sur ma démo',
                 subtitle:
                     "Ceci est le back-office d'un magasin de posters imaginaire. N'hésitez pas à explorer et à modifier les données. La démo s'exécute en local dans votre navigateur, et se remet à zéro chaque fois que vous rechargez la page.",
-                aor_button: 'Site web de eAdmin',
+                aor_button: 'Site web demo Admin',
                 demo_button: 'Code source de cette démo',
             },
         },
